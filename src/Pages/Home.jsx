@@ -171,7 +171,7 @@ export default function CleaningWebsite() {
                 <div className="text-gray-600">Satisfied Customers</div>
               </div>
               <div className="bg-white p-6 rounded-2xl shadow-lg mt-8">
-                <div className="text-4xl font-bold text-blue-600 mb-2">15+</div>
+                <div className="text-4xl font-bold text-blue-600 mb-2">3+</div>
                 <div className="text-gray-600">Years in Business</div>
               </div>
               <div className="bg-white p-6 rounded-2xl shadow-lg">
