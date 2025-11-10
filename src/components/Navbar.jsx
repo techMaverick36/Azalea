@@ -18,7 +18,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center space-x-2">
               <Sparkles className={`w-8 h-8 ${scrolled ? 'text-blue-600' : 'text-white'}`} />
-              <span className={`text-2xl font-bold ${scrolled ? 'text-gray-900' : 'text-white'} playfair-display`}>
+              <span className={`text-2xl font-bold ${scrolled ? 'text-gray-900' : 'text-white'} raleway`}>
               Azalea cleaning services and property management co. Ltd
               </span>
             </div>

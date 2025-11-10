@@ -27,9 +27,9 @@ export default function CleaningWebsite() {
 
       {/* Hero Section */}
       <div
-  className="relative bg-cover bg-center bg-no-repeat text-white pt-32 pb-20 overflow-hidden"
+  className="relative bg-cover bg-center bg-no-repeat text-white pt-32 pb-20 overflow-hidden h-4/5"
   style={{
-    backgroundImage: "url('/cleaning-cart.jpg')",
+    backgroundImage: "url('/persons-cleaning.jpg')",
   }}
 >
   {/* Overlay for readability */}

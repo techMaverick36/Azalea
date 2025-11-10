@@ -32,19 +32,25 @@
 
   export const testimonials = [
     {
-      name: "Sarah Mitchell",
-      role: "Homeowner",
+      name: "Mercy Corps",
+      role: "Company",
       text: "Absolutely outstanding service! My house has never looked better. The team was professional, thorough, and respectful.",
       rating: 5
     },
     {
-      name: "James Cooper",
+      name: "Uganda Research Collaboration",
       role: "Business Owner",
       text: "We've been using their commercial cleaning services for over a year. Reliable, efficient, and always exceeds expectations.",
       rating: 5
     },
     {
-      name: "Emily Rodriguez",
+      name: "Finn Church Aid",
+      role: "Property Manager",
+      text: "Perfect for our move-out cleanings. They transform properties and make our job so much easier. Highly recommended!",
+      rating: 5
+    },
+    {
+      name: "Child Fund",
       role: "Property Manager",
       text: "Perfect for our move-out cleanings. They transform properties and make our job so much easier. Highly recommended!",
       rating: 5
